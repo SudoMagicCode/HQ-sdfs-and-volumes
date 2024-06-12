@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "SDFs and Volumes",
+            "path": "../code",
+            "cwd": "${workspaceFolder}/code",
+            "python.interpreterPath": "C:/Program Files/Derivative/TouchDesigner.2023.11600/bin/python.exe",
+        },
+    ],
+    "settings": {
+        "workbench.colorTheme": "Overflow Contrast (rainglow)",
+    },
+}
